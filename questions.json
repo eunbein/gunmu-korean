@@ -2,1052 +2,2320 @@
   {
     "year": 2020,
     "number": 1,
-    "pages": [
-      1
-    ]
+    "question_crops": [
+      [
+        1,
+        35,
+        134.0037078857422,
+        295,
+        254.79391479492188
+      ]
+    ],
+    "passage_crops": []
   },
   {
     "year": 2020,
     "number": 2,
-    "pages": [
-      1
-    ]
+    "question_crops": [
+      [
+        1,
+        35,
+        252.79391479492188,
+        295,
+        441.429931640625
+      ]
+    ],
+    "passage_crops": []
   },
   {
     "year": 2020,
     "number": 3,
-    "pages": [
-      1
-    ]
+    "question_crops": [
+      [
+        1,
+        35,
+        439.429931640625,
+        295,
+        560.2201538085938
+      ]
+    ],
+    "passage_crops": []
   },
   {
     "year": 2020,
     "number": 4,
-    "pages": [
-      1
-    ]
+    "question_crops": [
+      [
+        1,
+        35,
+        558.2201538085938,
+        295,
+        795
+      ]
+    ],
+    "passage_crops": []
   },
   {
     "year": 2020,
     "number": 5,
-    "pages": [
-      1
-    ]
+    "question_crops": [
+      [
+        1,
+        295,
+        134.0037078857422,
+        560,
+        670.2598876953125
+      ]
+    ],
+    "passage_crops": []
   },
   {
     "year": 2020,
     "number": 6,
-    "pages": [
-      1
-    ]
+    "question_crops": [
+      [
+        1,
+        295,
+        668.2598876953125,
+        560,
+        795
+      ]
+    ],
+    "passage_crops": []
   },
   {
     "year": 2020,
     "number": 7,
-    "pages": [
-      2
-    ]
+    "question_crops": [
+      [
+        2,
+        35,
+        52.253055572509766,
+        295,
+        214.39804077148438
+      ]
+    ],
+    "passage_crops": []
   },
   {
     "year": 2020,
     "number": 8,
-    "pages": [
-      2
-    ]
+    "question_crops": [
+      [
+        2,
+        35,
+        212.39804077148438,
+        295,
+        795
+      ]
+    ],
+    "passage_crops": []
   },
   {
     "year": 2020,
     "number": 9,
-    "pages": [
-      2
-    ]
+    "question_crops": [
+      [
+        2,
+        295,
+        52.253055572509766,
+        560,
+        179.99563598632812
+      ]
+    ],
+    "passage_crops": []
   },
   {
     "year": 2020,
     "number": 10,
-    "pages": [
-      2
-    ]
+    "question_crops": [
+      [
+        2,
+        295,
+        177.99563598632812,
+        560,
+        490.33648681640625
+      ]
+    ],
+    "passage_crops": []
   },
   {
     "year": 2020,
     "number": 11,
-    "pages": [
-      2
-    ]
+    "question_crops": [
+      [
+        2,
+        295,
+        488.33648681640625,
+        560,
+        601.814697265625
+      ]
+    ],
+    "passage_crops": []
   },
   {
     "year": 2020,
     "number": 12,
-    "pages": [
-      2
-    ]
+    "question_crops": [
+      [
+        2,
+        295,
+        599.814697265625,
+        560,
+        795
+      ]
+    ],
+    "passage_crops": []
   },
   {
     "year": 2020,
     "number": 13,
-    "pages": [
-      3
+    "question_crops": [
+      [
+        3,
+        35,
+        387.04718017578125,
+        295,
+        513.95068359375
+      ]
+    ],
+    "passage_crops": [
+      [
+        3,
+        35,
+        55,
+        295,
+        390
+      ]
     ]
   },
   {
     "year": 2020,
     "number": 14,
-    "pages": [
-      3
+    "question_crops": [
+      [
+        3,
+        35,
+        511.95068359375,
+        295,
+        625.4288330078125
+      ]
+    ],
+    "passage_crops": [
+      [
+        3,
+        35,
+        55,
+        295,
+        390
+      ]
     ]
   },
   {
     "year": 2020,
     "number": 15,
-    "pages": [
-      3
-    ]
+    "question_crops": [
+      [
+        3,
+        35,
+        623.4288330078125,
+        295,
+        795
+      ]
+    ],
+    "passage_crops": []
   },
   {
     "year": 2020,
     "number": 16,
-    "pages": [
-      3
-    ]
+    "question_crops": [
+      [
+        3,
+        295,
+        51.65371322631836,
+        560,
+        224.70677185058594
+      ]
+    ],
+    "passage_crops": []
   },
   {
     "year": 2020,
     "number": 17,
-    "pages": [
-      3
-    ]
+    "question_crops": [
+      [
+        3,
+        295,
+        222.70677185058594,
+        560,
+        392.1637878417969
+      ]
+    ],
+    "passage_crops": []
   },
   {
     "year": 2020,
     "number": 18,
-    "pages": [
-      3
-    ]
+    "question_crops": [
+      [
+        3,
+        295,
+        390.1637878417969,
+        560,
+        671.2188110351562
+      ]
+    ],
+    "passage_crops": []
   },
   {
     "year": 2020,
     "number": 19,
-    "pages": [
-      3
-    ]
+    "question_crops": [
+      [
+        3,
+        295,
+        669.2188110351562,
+        560,
+        795
+      ]
+    ],
+    "passage_crops": []
   },
   {
     "year": 2020,
     "number": 20,
-    "pages": [
-      4
-    ]
+    "question_crops": [
+      [
+        4,
+        35,
+        53.81135177612305,
+        295,
+        272.1749267578125
+      ]
+    ],
+    "passage_crops": []
   },
   {
     "year": 2020,
     "number": 21,
-    "pages": [
-      4
-    ]
+    "question_crops": [
+      [
+        4,
+        35,
+        270.1749267578125,
+        295,
+        595.1019897460938
+      ]
+    ],
+    "passage_crops": []
   },
   {
     "year": 2020,
     "number": 22,
-    "pages": [
-      4
-    ]
+    "question_crops": [
+      [
+        4,
+        35,
+        593.1019897460938,
+        295,
+        690.6375732421875
+      ]
+    ],
+    "passage_crops": []
   },
   {
     "year": 2020,
     "number": 23,
-    "pages": [
-      4
-    ]
+    "question_crops": [
+      [
+        4,
+        35,
+        688.6375732421875,
+        295,
+        795
+      ]
+    ],
+    "passage_crops": []
   },
   {
     "year": 2020,
     "number": 24,
-    "pages": [
-      4
-    ]
+    "question_crops": [
+      [
+        4,
+        295,
+        53.81135177612305,
+        560,
+        460.1295166015625
+      ]
+    ],
+    "passage_crops": []
   },
   {
     "year": 2020,
     "number": 25,
-    "pages": [
-      4
-    ]
+    "question_crops": [
+      [
+        4,
+        295,
+        458.1295166015625,
+        560,
+        795
+      ]
+    ],
+    "passage_crops": []
   },
   {
     "year": 2021,
     "number": 1,
-    "pages": [
-      1
-    ]
+    "question_crops": [
+      [
+        1,
+        35,
+        136.1134033203125,
+        295,
+        307.847900390625
+      ]
+    ],
+    "passage_crops": []
   },
   {
     "year": 2021,
     "number": 2,
-    "pages": [
-      1
-    ]
+    "question_crops": [
+      [
+        1,
+        35,
+        305.847900390625,
+        295,
+        426.6380920410156
+      ]
+    ],
+    "passage_crops": []
   },
   {
     "year": 2021,
     "number": 3,
-    "pages": [
-      1
-    ]
+    "question_crops": [
+      [
+        1,
+        35,
+        424.6380920410156,
+        295,
+        795
+      ]
+    ],
+    "passage_crops": []
   },
   {
     "year": 2021,
     "number": 4,
-    "pages": [
-      1
+    "question_crops": [
+      [
+        1,
+        295,
+        424.6380920410156,
+        560,
+        596.2527465820312
+      ]
+    ],
+    "passage_crops": [
+      [
+        1,
+        295,
+        140,
+        560,
+        425
+      ]
     ]
   },
   {
     "year": 2021,
     "number": 5,
-    "pages": [
-      1
+    "question_crops": [
+      [
+        1,
+        295,
+        594.2527465820312,
+        560,
+        795
+      ]
+    ],
+    "passage_crops": [
+      [
+        1,
+        295,
+        140,
+        560,
+        425
+      ]
     ]
   },
   {
     "year": 2021,
     "number": 6,
-    "pages": [
-      2
-    ]
+    "question_crops": [
+      [
+        2,
+        35,
+        56.9998779296875,
+        295,
+        522.4134521484375
+      ]
+    ],
+    "passage_crops": []
   },
   {
     "year": 2021,
     "number": 7,
-    "pages": [
-      2
-    ]
+    "question_crops": [
+      [
+        2,
+        35,
+        520.4134521484375,
+        295,
+        795
+      ]
+    ],
+    "passage_crops": []
   },
   {
     "year": 2021,
     "number": 8,
-    "pages": [
-      2
-    ]
+    "question_crops": [
+      [
+        2,
+        295,
+        56.9998779296875,
+        560,
+        521.6942138671875
+      ]
+    ],
+    "passage_crops": []
   },
   {
     "year": 2021,
     "number": 9,
-    "pages": [
-      2
-    ]
+    "question_crops": [
+      [
+        2,
+        295,
+        519.6942138671875,
+        560,
+        795
+      ]
+    ],
+    "passage_crops": []
   },
   {
     "year": 2021,
     "number": 10,
-    "pages": [
-      3
+    "question_crops": [
+      [
+        3,
+        35,
+        426.5559997558594,
+        295,
+        581.2691040039062
+      ]
+    ],
+    "passage_crops": [
+      [
+        3,
+        35,
+        55,
+        295,
+        430
+      ]
     ]
   },
   {
     "year": 2021,
     "number": 11,
-    "pages": [
-      3
+    "question_crops": [
+      [
+        3,
+        35,
+        579.2691040039062,
+        295,
+        795
+      ]
+    ],
+    "passage_crops": [
+      [
+        3,
+        35,
+        55,
+        295,
+        430
+      ]
     ]
   },
   {
     "year": 2021,
     "number": 12,
-    "pages": [
-      3
-    ]
+    "question_crops": [
+      [
+        3,
+        295,
+        56.9998779296875,
+        560,
+        428.3162536621094
+      ]
+    ],
+    "passage_crops": []
   },
   {
     "year": 2021,
     "number": 13,
-    "pages": [
-      3
-    ]
+    "question_crops": [
+      [
+        3,
+        295,
+        426.3162536621094,
+        560,
+        581.0293579101562
+      ]
+    ],
+    "passage_crops": []
   },
   {
     "year": 2021,
     "number": 14,
-    "pages": [
-      3
-    ]
+    "question_crops": [
+      [
+        3,
+        295,
+        579.0293579101562,
+        560,
+        795
+      ]
+    ],
+    "passage_crops": []
   },
   {
     "year": 2021,
     "number": 15,
-    "pages": [
-      4
+    "question_crops": [
+      [
+        4,
+        295,
+        56.9998779296875,
+        560,
+        177.79005432128906
+      ]
+    ],
+    "passage_crops": [
+      [
+        4,
+        35,
+        55,
+        295,
+        795
+      ]
     ]
   },
   {
     "year": 2021,
     "number": 16,
-    "pages": [
-      4
+    "question_crops": [
+      [
+        4,
+        295,
+        175.79005432128906,
+        560,
+        313.48175048828125
+      ]
+    ],
+    "passage_crops": [
+      [
+        4,
+        35,
+        55,
+        295,
+        795
+      ]
     ]
   },
   {
     "year": 2021,
     "number": 17,
-    "pages": [
-      4
+    "question_crops": [
+      [
+        4,
+        295,
+        311.48175048828125,
+        560,
+        602.8455200195312
+      ]
+    ],
+    "passage_crops": [
+      [
+        4,
+        35,
+        55,
+        295,
+        795
+      ]
     ]
   },
   {
     "year": 2021,
     "number": 18,
-    "pages": [
-      4
-    ]
+    "question_crops": [
+      [
+        4,
+        295,
+        600.8455200195312,
+        560,
+        795
+      ]
+    ],
+    "passage_crops": []
   },
   {
     "year": 2021,
     "number": 19,
-    "pages": [
-      5
+    "question_crops": [
+      [
+        5,
+        295,
+        56.9998779296875,
+        560,
+        109.94419860839844
+      ]
+    ],
+    "passage_crops": [
+      [
+        5,
+        35,
+        55,
+        295,
+        795
+      ]
     ]
   },
   {
     "year": 2021,
     "number": 20,
-    "pages": [
-      5
+    "question_crops": [
+      [
+        5,
+        295,
+        107.94419860839844,
+        560,
+        256.06451416015625
+      ]
+    ],
+    "passage_crops": [
+      [
+        5,
+        35,
+        55,
+        295,
+        795
+      ]
     ]
   },
   {
     "year": 2021,
     "number": 21,
-    "pages": [
-      5
-    ]
+    "question_crops": [
+      [
+        5,
+        295,
+        254.06451416015625,
+        560,
+        432.87127685546875
+      ]
+    ],
+    "passage_crops": []
   },
   {
     "year": 2021,
     "number": 22,
-    "pages": [
-      5
-    ]
+    "question_crops": [
+      [
+        5,
+        295,
+        430.87127685546875,
+        560,
+        795
+      ]
+    ],
+    "passage_crops": []
   },
   {
     "year": 2021,
     "number": 23,
-    "pages": [
-      6
-    ]
+    "question_crops": [
+      [
+        6,
+        35,
+        56.9998779296875,
+        295,
+        616.5106201171875
+      ]
+    ],
+    "passage_crops": []
   },
   {
     "year": 2021,
     "number": 24,
-    "pages": [
-      6
-    ]
+    "question_crops": [
+      [
+        6,
+        35,
+        614.5106201171875,
+        295,
+        795
+      ]
+    ],
+    "passage_crops": []
   },
   {
     "year": 2021,
     "number": 25,
-    "pages": [
-      6
-    ]
+    "question_crops": [
+      [
+        6,
+        295,
+        56.9998779296875,
+        560,
+        795
+      ]
+    ],
+    "passage_crops": []
   },
   {
     "year": 2022,
     "number": 1,
-    "pages": [
-      1
-    ]
+    "question_crops": [
+      [
+        1,
+        35,
+        135.15444946289062,
+        295,
+        264.5751953125
+      ]
+    ],
+    "passage_crops": []
   },
   {
     "year": 2022,
     "number": 2,
-    "pages": [
-      1
-    ]
+    "question_crops": [
+      [
+        1,
+        35,
+        262.5751953125,
+        295,
+        360.1108093261719
+      ]
+    ],
+    "passage_crops": []
   },
   {
     "year": 2022,
     "number": 3,
-    "pages": [
-      1
-    ]
+    "question_crops": [
+      [
+        1,
+        35,
+        358.1108093261719,
+        295,
+        535.2393798828125
+      ]
+    ],
+    "passage_crops": []
   },
   {
     "year": 2022,
     "number": 4,
-    "pages": [
-      1
-    ]
+    "question_crops": [
+      [
+        1,
+        35,
+        533.2393798828125,
+        295,
+        694.4254150390625
+      ]
+    ],
+    "passage_crops": []
   },
   {
     "year": 2022,
     "number": 5,
-    "pages": [
-      1
-    ]
+    "question_crops": [
+      [
+        1,
+        35,
+        692.4254150390625,
+        295,
+        795
+      ]
+    ],
+    "passage_crops": []
   },
   {
     "year": 2022,
     "number": 6,
-    "pages": [
-      1
+    "question_crops": [
+      [
+        1,
+        295,
+        596.05078125,
+        560,
+        725.3516235351562
+      ]
+    ],
+    "passage_crops": [
+      [
+        1,
+        295,
+        140,
+        560,
+        600
+      ]
     ]
   },
   {
     "year": 2022,
     "number": 7,
-    "pages": [
-      1
+    "question_crops": [
+      [
+        1,
+        295,
+        723.3516235351562,
+        560,
+        795
+      ]
+    ],
+    "passage_crops": [
+      [
+        1,
+        295,
+        140,
+        560,
+        600
+      ]
     ]
   },
   {
     "year": 2022,
     "number": 8,
-    "pages": [
-      2
-    ]
+    "question_crops": [
+      [
+        2,
+        35,
+        55.921051025390625,
+        295,
+        795
+      ]
+    ],
+    "passage_crops": []
   },
   {
     "year": 2022,
     "number": 9,
-    "pages": [
-      2
-    ]
+    "question_crops": [
+      [
+        2,
+        295,
+        55.921051025390625,
+        560,
+        402.54443359375
+      ]
+    ],
+    "passage_crops": []
   },
   {
     "year": 2022,
     "number": 10,
-    "pages": [
-      2
-    ]
+    "question_crops": [
+      [
+        2,
+        295,
+        400.54443359375,
+        560,
+        795
+      ]
+    ],
+    "passage_crops": []
   },
   {
     "year": 2022,
     "number": 11,
-    "pages": [
-      3
-    ]
+    "question_crops": [
+      [
+        3,
+        35,
+        55.921051025390625,
+        295,
+        484.05535888671875
+      ]
+    ],
+    "passage_crops": []
   },
   {
     "year": 2022,
     "number": 12,
-    "pages": [
-      3
-    ]
+    "question_crops": [
+      [
+        3,
+        35,
+        482.05535888671875,
+        295,
+        795
+      ]
+    ],
+    "passage_crops": []
   },
   {
     "year": 2022,
     "number": 13,
-    "pages": [
-      3
-    ]
+    "question_crops": [
+      [
+        3,
+        295,
+        55.921051025390625,
+        560,
+        185.341796875
+      ]
+    ],
+    "passage_crops": []
   },
   {
     "year": 2022,
     "number": 14,
-    "pages": [
-      3
+    "question_crops": [
+      [
+        3,
+        295,
+        183.341796875,
+        560,
+        795
+      ]
+    ],
+    "passage_crops": [
+      [
+        3,
+        35,
+        210,
+        295,
+        795
+      ]
     ]
   },
   {
     "year": 2022,
     "number": 15,
-    "pages": [
-      4
-    ]
+    "question_crops": [
+      [
+        4,
+        35,
+        55.921051025390625,
+        295,
+        121.57148742675781
+      ]
+    ],
+    "passage_crops": []
   },
   {
     "year": 2022,
     "number": 16,
-    "pages": [
-      4
-    ]
+    "question_crops": [
+      [
+        4,
+        35,
+        119.57148742675781,
+        295,
+        359.7511901855469
+      ]
+    ],
+    "passage_crops": []
   },
   {
     "year": 2022,
     "number": 17,
-    "pages": [
-      4
-    ]
+    "question_crops": [
+      [
+        4,
+        35,
+        357.7511901855469,
+        295,
+        795
+      ]
+    ],
+    "passage_crops": []
   },
   {
     "year": 2022,
     "number": 18,
-    "pages": [
-      4
-    ]
+    "question_crops": [
+      [
+        4,
+        295,
+        55.921051025390625,
+        560,
+        463.0782775878906
+      ]
+    ],
+    "passage_crops": []
   },
   {
     "year": 2022,
     "number": 19,
-    "pages": [
-      4
-    ]
+    "question_crops": [
+      [
+        4,
+        295,
+        461.0782775878906,
+        560,
+        700.1791381835938
+      ]
+    ],
+    "passage_crops": []
   },
   {
     "year": 2022,
     "number": 20,
-    "pages": [
-      4
-    ]
+    "question_crops": [
+      [
+        4,
+        295,
+        698.1791381835938,
+        560,
+        795
+      ]
+    ],
+    "passage_crops": []
   },
   {
     "year": 2022,
     "number": 21,
-    "pages": [
-      5
-    ]
+    "question_crops": [
+      [
+        5,
+        35,
+        55.921051025390625,
+        295,
+        662.89990234375
+      ]
+    ],
+    "passage_crops": []
   },
   {
     "year": 2022,
     "number": 22,
-    "pages": [
-      5
-    ]
+    "question_crops": [
+      [
+        5,
+        35,
+        660.89990234375,
+        295,
+        795
+      ]
+    ],
+    "passage_crops": []
   },
   {
     "year": 2022,
     "number": 23,
-    "pages": [
-      5
-    ]
+    "question_crops": [
+      [
+        5,
+        295,
+        55.921051025390625,
+        560,
+        344.52783203125
+      ]
+    ],
+    "passage_crops": []
   },
   {
     "year": 2022,
     "number": 24,
-    "pages": [
-      5
-    ]
+    "question_crops": [
+      [
+        5,
+        295,
+        342.52783203125,
+        560,
+        583.18701171875
+      ]
+    ],
+    "passage_crops": []
   },
   {
     "year": 2022,
     "number": 25,
-    "pages": [
-      5
-    ]
+    "question_crops": [
+      [
+        5,
+        295,
+        581.18701171875,
+        560,
+        795
+      ]
+    ],
+    "passage_crops": []
   },
   {
     "year": 2023,
     "number": 1,
-    "pages": [
-      1
-    ]
+    "question_crops": [
+      [
+        1,
+        35,
+        131.9659423828125,
+        295,
+        321.6808166503906
+      ]
+    ],
+    "passage_crops": []
   },
   {
     "year": 2023,
     "number": 2,
-    "pages": [
-      1
-    ]
+    "question_crops": [
+      [
+        1,
+        35,
+        319.6808166503906,
+        295,
+        424.5284118652344
+      ]
+    ],
+    "passage_crops": []
   },
   {
     "year": 2023,
     "number": 3,
-    "pages": [
-      1
-    ]
+    "question_crops": [
+      [
+        1,
+        35,
+        422.5284118652344,
+        295,
+        686.2024536132812
+      ]
+    ],
+    "passage_crops": []
   },
   {
     "year": 2023,
     "number": 4,
-    "pages": [
-      1
-    ]
+    "question_crops": [
+      [
+        1,
+        35,
+        684.2024536132812,
+        295,
+        795
+      ]
+    ],
+    "passage_crops": []
   },
   {
     "year": 2023,
     "number": 5,
-    "pages": [
-      1
-    ]
+    "question_crops": [
+      [
+        1,
+        295,
+        131.9659423828125,
+        560,
+        305.2587585449219
+      ]
+    ],
+    "passage_crops": []
   },
   {
     "year": 2023,
     "number": 6,
-    "pages": [
-      1
-    ]
+    "question_crops": [
+      [
+        1,
+        295,
+        303.2587585449219,
+        560,
+        654.5570068359375
+      ]
+    ],
+    "passage_crops": []
   },
   {
     "year": 2023,
     "number": 7,
-    "pages": [
-      1
-    ]
+    "question_crops": [
+      [
+        1,
+        295,
+        652.5570068359375,
+        560,
+        795
+      ]
+    ],
+    "passage_crops": []
   },
   {
     "year": 2023,
     "number": 8,
-    "pages": [
-      2
-    ]
+    "question_crops": [
+      [
+        2,
+        35,
+        52.7325325012207,
+        295,
+        328.9928283691406
+      ]
+    ],
+    "passage_crops": []
   },
   {
     "year": 2023,
     "number": 9,
-    "pages": [
-      2
-    ]
+    "question_crops": [
+      [
+        2,
+        35,
+        326.9928283691406,
+        295,
+        528.3349609375
+      ]
+    ],
+    "passage_crops": []
   },
   {
     "year": 2023,
     "number": 10,
-    "pages": [
-      2
-    ]
+    "question_crops": [
+      [
+        2,
+        35,
+        526.3349609375,
+        295,
+        795
+      ]
+    ],
+    "passage_crops": []
   },
   {
     "year": 2023,
     "number": 11,
-    "pages": [
-      2
-    ]
+    "question_crops": [
+      [
+        2,
+        295,
+        52.7325325012207,
+        560,
+        530.6124877929688
+      ]
+    ],
+    "passage_crops": []
   },
   {
     "year": 2023,
     "number": 12,
-    "pages": [
-      2
-    ]
+    "question_crops": [
+      [
+        2,
+        295,
+        528.6124877929688,
+        560,
+        795
+      ]
+    ],
+    "passage_crops": []
   },
   {
     "year": 2023,
     "number": 13,
-    "pages": [
-      3
-    ]
+    "question_crops": [
+      [
+        3,
+        35,
+        321.5987243652344,
+        295,
+        795
+      ]
+    ],
+    "passage_crops": []
   },
   {
     "year": 2023,
     "number": 14,
-    "pages": [
-      3
+    "question_crops": [
+      [
+        3,
+        295,
+        52.7325325012207,
+        560,
+        224.467041015625
+      ]
+    ],
+    "passage_crops": [
+      [
+        3,
+        35,
+        55,
+        295,
+        795
+      ]
     ]
   },
   {
     "year": 2023,
     "number": 15,
-    "pages": [
-      3
+    "question_crops": [
+      [
+        3,
+        295,
+        222.467041015625,
+        560,
+        410.1441345214844
+      ]
+    ],
+    "passage_crops": [
+      [
+        3,
+        35,
+        55,
+        295,
+        795
+      ]
     ]
   },
   {
     "year": 2023,
     "number": 16,
-    "pages": [
-      3
-    ]
+    "question_crops": [
+      [
+        3,
+        295,
+        408.1441345214844,
+        560,
+        795
+      ]
+    ],
+    "passage_crops": []
   },
   {
     "year": 2023,
     "number": 17,
-    "pages": [
-      4
+    "question_crops": [
+      [
+        4,
+        35,
+        601.4928588867188,
+        295,
+        795
+      ]
+    ],
+    "passage_crops": [
+      [
+        4,
+        35,
+        55,
+        295,
+        605
+      ]
     ]
   },
   {
     "year": 2023,
     "number": 18,
-    "pages": [
-      4
+    "question_crops": [
+      [
+        4,
+        295,
+        54.89017868041992,
+        560,
+        228.66244506835938
+      ]
+    ],
+    "passage_crops": [
+      [
+        4,
+        35,
+        55,
+        295,
+        605
+      ]
     ]
   },
   {
     "year": 2023,
     "number": 19,
-    "pages": [
-      4
+    "question_crops": [
+      [
+        4,
+        295,
+        226.66244506835938,
+        560,
+        468.4004821777344
+      ]
+    ],
+    "passage_crops": [
+      [
+        4,
+        35,
+        55,
+        295,
+        605
+      ]
     ]
   },
   {
     "year": 2023,
     "number": 20,
-    "pages": [
-      4
-    ]
+    "question_crops": [
+      [
+        4,
+        295,
+        466.4004821777344,
+        560,
+        795
+      ]
+    ],
+    "passage_crops": []
   },
   {
     "year": 2023,
     "number": 21,
-    "pages": [
-      5
+    "question_crops": [
+      [
+        5,
+        295,
+        209.76092529296875,
+        560,
+        330.5511169433594
+      ]
+    ],
+    "passage_crops": [
+      [
+        5,
+        35,
+        55,
+        295,
+        795
+      ],
+      [
+        5,
+        295,
+        55,
+        560,
+        210
+      ]
     ]
   },
   {
     "year": 2023,
     "number": 22,
-    "pages": [
-      5
+    "question_crops": [
+      [
+        5,
+        295,
+        328.5511169433594,
+        560,
+        550.151123046875
+      ]
+    ],
+    "passage_crops": [
+      [
+        5,
+        35,
+        55,
+        295,
+        795
+      ],
+      [
+        5,
+        295,
+        55,
+        560,
+        210
+      ]
     ]
   },
   {
     "year": 2023,
     "number": 23,
-    "pages": [
-      5,
-      6
-    ]
+    "question_crops": [
+      [
+        5,
+        295,
+        545,
+        560,
+        795
+      ],
+      [
+        6,
+        35,
+        55,
+        295,
+        615
+      ]
+    ],
+    "passage_crops": []
   },
   {
     "year": 2023,
     "number": 24,
-    "pages": [
-      6
-    ]
+    "question_crops": [
+      [
+        6,
+        35,
+        471.5548400878906,
+        295,
+        795
+      ]
+    ],
+    "passage_crops": []
   },
   {
     "year": 2023,
     "number": 25,
-    "pages": [
-      6
-    ]
+    "question_crops": [
+      [
+        6,
+        295,
+        54.89017868041992,
+        560,
+        795
+      ]
+    ],
+    "passage_crops": []
   },
   {
     "year": 2024,
     "number": 1,
-    "pages": [
-      1
-    ]
+    "question_crops": [
+      [
+        1,
+        0,
+        120,
+        364,
+        305
+      ]
+    ],
+    "passage_crops": []
   },
   {
     "year": 2024,
     "number": 2,
-    "pages": [
-      1
-    ]
+    "question_crops": [
+      [
+        1,
+        0,
+        300,
+        364,
+        455
+      ]
+    ],
+    "passage_crops": []
   },
   {
     "year": 2024,
     "number": 3,
-    "pages": [
-      1
-    ]
+    "question_crops": [
+      [
+        1,
+        0,
+        450,
+        364,
+        605
+      ]
+    ],
+    "passage_crops": []
   },
   {
     "year": 2024,
     "number": 4,
-    "pages": [
-      1
-    ]
+    "question_crops": [
+      [
+        1,
+        0,
+        600,
+        364,
+        800
+      ]
+    ],
+    "passage_crops": []
   },
   {
     "year": 2024,
     "number": 5,
-    "pages": [
-      1
-    ]
+    "question_crops": [
+      [
+        1,
+        0,
+        795,
+        364,
+        1010
+      ]
+    ],
+    "passage_crops": []
   },
   {
     "year": 2024,
     "number": 6,
-    "pages": [
-      1
-    ]
+    "question_crops": [
+      [
+        1,
+        364,
+        120,
+        728,
+        410
+      ]
+    ],
+    "passage_crops": []
   },
   {
     "year": 2024,
     "number": 7,
-    "pages": [
-      1
-    ]
+    "question_crops": [
+      [
+        1,
+        364,
+        405,
+        728,
+        745
+      ]
+    ],
+    "passage_crops": []
   },
   {
     "year": 2024,
     "number": 8,
-    "pages": [
-      1
-    ]
+    "question_crops": [
+      [
+        1,
+        364,
+        740,
+        728,
+        1010
+      ]
+    ],
+    "passage_crops": []
   },
   {
     "year": 2024,
     "number": 9,
-    "pages": [
-      2
-    ]
+    "question_crops": [
+      [
+        2,
+        0,
+        80,
+        364,
+        515
+      ]
+    ],
+    "passage_crops": []
   },
   {
     "year": 2024,
     "number": 10,
-    "pages": [
-      2
-    ]
+    "question_crops": [
+      [
+        2,
+        0,
+        510,
+        364,
+        1010
+      ]
+    ],
+    "passage_crops": []
   },
   {
     "year": 2024,
     "number": 11,
-    "pages": [
-      2
-    ]
+    "question_crops": [
+      [
+        2,
+        364,
+        80,
+        728,
+        635
+      ]
+    ],
+    "passage_crops": []
   },
   {
     "year": 2024,
     "number": 12,
-    "pages": [
-      2
-    ]
+    "question_crops": [
+      [
+        2,
+        364,
+        630,
+        728,
+        1010
+      ]
+    ],
+    "passage_crops": []
   },
   {
     "year": 2024,
     "number": 13,
-    "pages": [
-      3
-    ]
+    "question_crops": [
+      [
+        3,
+        0,
+        80,
+        364,
+        485
+      ]
+    ],
+    "passage_crops": []
   },
   {
     "year": 2024,
     "number": 14,
-    "pages": [
-      3
-    ]
+    "question_crops": [
+      [
+        3,
+        0,
+        480,
+        364,
+        1010
+      ]
+    ],
+    "passage_crops": []
   },
   {
     "year": 2024,
     "number": 15,
-    "pages": [
-      3
-    ]
+    "question_crops": [
+      [
+        3,
+        364,
+        80,
+        728,
+        635
+      ]
+    ],
+    "passage_crops": []
   },
   {
     "year": 2024,
     "number": 16,
-    "pages": [
-      3
-    ]
+    "question_crops": [
+      [
+        3,
+        364,
+        630,
+        728,
+        1010
+      ]
+    ],
+    "passage_crops": []
   },
   {
     "year": 2024,
     "number": 17,
-    "pages": [
-      4
-    ]
+    "question_crops": [
+      [
+        4,
+        0,
+        80,
+        364,
+        1010
+      ]
+    ],
+    "passage_crops": []
   },
   {
     "year": 2024,
     "number": 18,
-    "pages": [
-      4
-    ]
+    "question_crops": [
+      [
+        4,
+        364,
+        80,
+        728,
+        505
+      ]
+    ],
+    "passage_crops": []
   },
   {
     "year": 2024,
     "number": 19,
-    "pages": [
-      4
-    ]
+    "question_crops": [
+      [
+        4,
+        364,
+        500,
+        728,
+        1010
+      ]
+    ],
+    "passage_crops": []
   },
   {
     "year": 2024,
     "number": 20,
-    "pages": [
-      5
-    ]
+    "question_crops": [
+      [
+        5,
+        0,
+        80,
+        364,
+        785
+      ]
+    ],
+    "passage_crops": []
   },
   {
     "year": 2024,
     "number": 21,
-    "pages": [
-      5
-    ]
+    "question_crops": [
+      [
+        5,
+        0,
+        780,
+        364,
+        1010
+      ]
+    ],
+    "passage_crops": []
   },
   {
     "year": 2024,
     "number": 22,
-    "pages": [
-      5
-    ]
+    "question_crops": [
+      [
+        5,
+        364,
+        80,
+        728,
+        1010
+      ]
+    ],
+    "passage_crops": []
   },
   {
     "year": 2024,
     "number": 23,
-    "pages": [
-      6
-    ]
+    "question_crops": [
+      [
+        6,
+        0,
+        80,
+        364,
+        1010
+      ]
+    ],
+    "passage_crops": []
   },
   {
     "year": 2024,
     "number": 24,
-    "pages": [
-      6
-    ]
+    "question_crops": [
+      [
+        6,
+        364,
+        80,
+        728,
+        655
+      ]
+    ],
+    "passage_crops": []
   },
   {
     "year": 2024,
     "number": 25,
-    "pages": [
-      6
-    ]
+    "question_crops": [
+      [
+        6,
+        364,
+        650,
+        728,
+        1010
+      ]
+    ],
+    "passage_crops": []
   },
   {
     "year": 2025,
     "number": 1,
-    "pages": [
-      1
-    ]
+    "question_crops": [
+      [
+        1,
+        35,
+        134.1235809326172,
+        295,
+        435.5563659667969
+      ]
+    ],
+    "passage_crops": []
   },
   {
     "year": 2025,
     "number": 2,
-    "pages": [
-      1
-    ]
+    "question_crops": [
+      [
+        1,
+        35,
+        433.5563659667969,
+        295,
+        571.248046875
+      ]
+    ],
+    "passage_crops": []
   },
   {
     "year": 2025,
     "number": 3,
-    "pages": [
-      1
-    ]
+    "question_crops": [
+      [
+        1,
+        35,
+        569.248046875,
+        295,
+        795
+      ]
+    ],
+    "passage_crops": []
   },
   {
     "year": 2025,
     "number": 4,
-    "pages": [
-      1
-    ]
+    "question_crops": [
+      [
+        1,
+        295,
+        134.1235809326172,
+        560,
+        252.75613403320312
+      ]
+    ],
+    "passage_crops": []
   },
   {
     "year": 2025,
     "number": 5,
-    "pages": [
-      1
-    ]
+    "question_crops": [
+      [
+        1,
+        295,
+        250.75613403320312,
+        560,
+        448.741943359375
+      ]
+    ],
+    "passage_crops": []
   },
   {
     "year": 2025,
     "number": 6,
-    "pages": [
-      1
-    ]
+    "question_crops": [
+      [
+        1,
+        295,
+        446.741943359375,
+        560,
+        514.550048828125
+      ]
+    ],
+    "passage_crops": []
   },
   {
     "year": 2025,
     "number": 7,
-    "pages": [
-      1
-    ]
+    "question_crops": [
+      [
+        1,
+        295,
+        512.550048828125,
+        560,
+        795
+      ]
+    ],
+    "passage_crops": []
   },
   {
     "year": 2025,
     "number": 8,
-    "pages": [
-      2
-    ]
+    "question_crops": [
+      [
+        2,
+        35,
+        54.89017868041992,
+        295,
+        383.4133605957031
+      ]
+    ],
+    "passage_crops": []
   },
   {
     "year": 2025,
     "number": 9,
-    "pages": [
-      2
-    ]
+    "question_crops": [
+      [
+        2,
+        35,
+        381.4133605957031,
+        295,
+        689.1991577148438
+      ]
+    ],
+    "passage_crops": []
   },
   {
     "year": 2025,
     "number": 10,
-    "pages": [
-      2
-    ]
+    "question_crops": [
+      [
+        2,
+        35,
+        687.1991577148438,
+        295,
+        795
+      ]
+    ],
+    "passage_crops": []
   },
   {
     "year": 2025,
     "number": 11,
-    "pages": [
-      2
-    ]
+    "question_crops": [
+      [
+        2,
+        295,
+        54.89017868041992,
+        560,
+        337.3836364746094
+      ]
+    ],
+    "passage_crops": []
   },
   {
     "year": 2025,
     "number": 12,
-    "pages": [
-      2
-    ]
+    "question_crops": [
+      [
+        2,
+        295,
+        335.3836364746094,
+        560,
+        504.72076416015625
+      ]
+    ],
+    "passage_crops": []
   },
   {
     "year": 2025,
     "number": 13,
-    "pages": [
-      2
-    ]
+    "question_crops": [
+      [
+        2,
+        295,
+        502.72076416015625,
+        560,
+        795
+      ]
+    ],
+    "passage_crops": []
   },
   {
     "year": 2025,
     "number": 14,
-    "pages": [
-      3
-    ]
+    "question_crops": [
+      [
+        3,
+        35,
+        54.89017868041992,
+        295,
+        430.7615966796875
+      ]
+    ],
+    "passage_crops": []
   },
   {
     "year": 2025,
     "number": 15,
-    "pages": [
-      3
-    ]
+    "question_crops": [
+      [
+        3,
+        35,
+        428.7615966796875,
+        295,
+        795
+      ]
+    ],
+    "passage_crops": []
   },
   {
     "year": 2025,
     "number": 16,
-    "pages": [
-      3
-    ]
+    "question_crops": [
+      [
+        3,
+        295,
+        54.89017868041992,
+        560,
+        192.58187866210938
+      ]
+    ],
+    "passage_crops": []
   },
   {
     "year": 2025,
     "number": 17,
-    "pages": [
-      3
-    ]
+    "question_crops": [
+      [
+        3,
+        295,
+        190.58187866210938,
+        560,
+        795
+      ]
+    ],
+    "passage_crops": []
   },
   {
     "year": 2025,
     "number": 18,
-    "pages": [
-      4
-    ]
+    "question_crops": [
+      [
+        4,
+        35,
+        54.89017868041992,
+        295,
+        641.8508911132812
+      ]
+    ],
+    "passage_crops": []
   },
   {
     "year": 2025,
     "number": 19,
-    "pages": [
-      4
-    ]
+    "question_crops": [
+      [
+        4,
+        35,
+        639.8508911132812,
+        295,
+        795
+      ]
+    ],
+    "passage_crops": []
   },
   {
     "year": 2025,
     "number": 20,
-    "pages": [
-      4
-    ]
+    "question_crops": [
+      [
+        4,
+        295,
+        54.89017868041992,
+        560,
+        795
+      ]
+    ],
+    "passage_crops": []
   },
   {
     "year": 2025,
     "number": 21,
-    "pages": [
-      5
-    ]
+    "question_crops": [
+      [
+        5,
+        35,
+        54.89017868041992,
+        295,
+        795
+      ]
+    ],
+    "passage_crops": []
   },
   {
     "year": 2025,
     "number": 22,
-    "pages": [
-      5
+    "question_crops": [
+      [
+        5,
+        295,
+        476.7091979980469,
+        560,
+        597.4993896484375
+      ]
+    ],
+    "passage_crops": [
+      [
+        5,
+        35,
+        55,
+        295,
+        795
+      ],
+      [
+        5,
+        295,
+        55,
+        560,
+        475
+      ]
     ]
   },
   {
     "year": 2025,
     "number": 23,
-    "pages": [
-      5
+    "question_crops": [
+      [
+        5,
+        295,
+        595.4993896484375,
+        560,
+        795
+      ]
+    ],
+    "passage_crops": [
+      [
+        5,
+        35,
+        55,
+        295,
+        795
+      ],
+      [
+        5,
+        295,
+        55,
+        560,
+        475
+      ]
     ]
   },
   {
     "year": 2025,
     "number": 24,
-    "pages": [
-      6
-    ]
+    "question_crops": [
+      [
+        6,
+        35,
+        54.89017868041992,
+        295,
+        795
+      ]
+    ],
+    "passage_crops": []
   },
   {
     "year": 2025,
     "number": 25,
-    "pages": [
-      6
-    ]
+    "question_crops": [
+      [
+        6,
+        295,
+        54.89017868041992,
+        560,
+        795
+      ]
+    ],
+    "passage_crops": []
   }
 ]

@@ -1,2 +1,2 @@
-GitHub에 이 폴더 안의 파일 9개를 모두 업로드하세요.
-기존 app.py, questions.json, requirements.txt는 덮어쓰기 하면 됩니다.
+압축을 푼 뒤 안의 파일을 GitHub 저장소에 모두 업로드하세요.
+기존 파일과 이름이 같으면 덮어쓰면 됩니다.
