@@ -72,7 +72,7 @@ def image_data_uri(year, crop):
     return f"data:image/png;base64,{encoded}"
 
 
-def build_print_html(exam_items, show_source=False, include_answer_key=False):
+def build_print_html(exam_items, show_source=False, include_answer_key=False, compact=False):
     body_parts = []
     answer_rows = []
     answer_lookup = {
@@ -105,6 +105,7 @@ def build_print_html(exam_items, show_source=False, include_answer_key=False):
             f'<tr><td>{exam_number}</td><td>{source}</td><td>{answer_value}번</td></tr>'
         )
 
+    compact_class = " compact" if compact else ""
     answer_key_html = ""
     if include_answer_key:
         answer_key_html = (
@@ -170,7 +171,7 @@ def build_print_html(exam_items, show_source=False, include_answer_key=False):
     }}
 </style>
 </head>
-<body>
+<body class="{compact_class}">
 <div class="top">
     <h1>군무원 9급 국어 랜덤 기출</h1>
     <button class="print-button" onclick="window.print()">인쇄하기</button>
@@ -252,9 +253,27 @@ if st.session_state.exam is None:
 
 
 st.download_button(
-    "🖨️ 시험지 인쇄용 HTML 다운로드",
-    data=build_print_html(st.session_state.exam, show_source=show_source, include_answer_key=False),
+    "🖨️ 일반 인쇄용 HTML 다운로드",
+    data=build_print_html(
+        st.session_state.exam,
+        show_source=show_source,
+        include_answer_key=False,
+        compact=False,
+    ),
     file_name="gunmu_korean_exam.html",
+    mime="text/html",
+    use_container_width=True,
+)
+
+st.download_button(
+    "📄 실제 시험지처럼 압축 인쇄용 HTML 다운로드",
+    data=build_print_html(
+        st.session_state.exam,
+        show_source=show_source,
+        include_answer_key=False,
+        compact=True,
+    ),
+    file_name="gunmu_korean_exam_compact.html",
     mime="text/html",
     use_container_width=True,
 )
