@@ -75,6 +75,10 @@ def image_data_uri(year, crop):
 def build_print_html(exam_items, show_source=False, include_answer_key=False):
     body_parts = []
     answer_rows = []
+    answer_lookup = {
+        (item["year"], item["number"]): item.get("answer")
+        for item in load_items()
+    }
 
     for exam_number, item in enumerate(exam_items, start=1):
         source = f'{item["year"]}년 {item["number"]}번'
@@ -96,8 +100,9 @@ def build_print_html(exam_items, show_source=False, include_answer_key=False):
         body_parts.append('<div class="answer-blank">정답: ① ② ③ ④</div>')
         body_parts.append('</section>')
 
+        answer_value = item.get("answer", answer_lookup.get((item["year"], item["number"]), ""))
         answer_rows.append(
-            f'<tr><td>{exam_number}</td><td>{source}</td><td>{item["answer"]}번</td></tr>'
+            f'<tr><td>{exam_number}</td><td>{source}</td><td>{answer_value}번</td></tr>'
         )
 
     answer_key_html = ""
@@ -183,6 +188,19 @@ for key, default in {"exam": None, "answers": {}, "submitted": False}.items():
 
 
 items = load_items()
+
+latest_by_key = {
+    (item["year"], item["number"]): item
+    for item in items
+}
+
+# 이전 버전에서 만든 시험이 브라우저 세션에 남아 있으면
+# 최신 questions.json의 정답 데이터를 다시 붙입니다.
+if st.session_state.exam is not None:
+    st.session_state.exam = [
+        latest_by_key.get((item.get("year"), item.get("number")), item)
+        for item in st.session_state.exam
+    ]
 
 st.title("📚 군무원 9급 국어 기출 랜덤 문제")
 st.caption(
@@ -302,7 +320,8 @@ else:
     for exam_number, item in enumerate(st.session_state.exam, start=1):
         answer_key = f'{item["year"]}_{item["number"]}'
         user_answer = st.session_state.answers[answer_key]
-        if user_answer == item["answer"]:
+        correct_answer = item.get("answer", latest_by_key[(item["year"], item["number"])]["answer"])
+        if user_answer == correct_answer:
             correct_count += 1
         else:
             wrong_items.append({
@@ -321,7 +340,7 @@ else:
             st.write(
                 f'❌ 시험 {wrong["exam_number"]}번 '
                 f'({item["year"]}년 {item["number"]}번) '
-                f'내 답: {wrong["user_answer"]}번 / 정답: {item["answer"]}번'
+                f'내 답: {wrong["user_answer"]}번 / 정답: {item.get("answer", latest_by_key[(item["year"], item["number"])]["answer"])}번'
             )
     else:
         st.balloons()
@@ -334,7 +353,7 @@ else:
         st.write(
             f'시험 {exam_number}번 · {source}: '
             f'내 답 **{st.session_state.answers[answer_key]}번**, '
-            f'정답 **{item["answer"]}번**'
+            f'정답 **{item.get("answer", latest_by_key[(item["year"], item["number"])]["answer"])}번**'
         )
 
     if st.button("새 랜덤 시험 만들기", use_container_width=True):
